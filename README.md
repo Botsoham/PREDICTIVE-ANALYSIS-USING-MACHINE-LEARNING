@@ -56,4 +56,8 @@ The notebook includes:
 - Best parameters:  
 
 ### 5. 📤 Output 
+<img width="424" height="270" alt="Image" src="https://github.com/user-attachments/assets/b4d9ba04-9e8b-4697-ad7c-3f1506692fb8" />
 
+<img width="1020" height="572" alt="Image" src="https://github.com/user-attachments/assets/4eae8b1d-9f7d-422a-bc99-19ea1144e47e" />
+
+<img width="770" height="806" alt="Image" src="https://github.com/user-attachments/assets/a2459ad1-1a0d-418e-bca9-14b1a47ed284" />
