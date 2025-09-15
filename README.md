@@ -56,3 +56,19 @@ The notebook includes:
 - Best parameters:  
 
 ### 5. 📤 Output 
+
+<img width="542" height="321" alt="Image" src="https://github.com/user-attachments/assets/db29a129-dd62-4a30-add4-fd2e5053de12" />
+
+<img width="898" height="781" alt="Image" src="https://github.com/user-attachments/assets/8a8ee18f-7272-4cda-85bf-263be249f371" />
+
+<img width="1248" height="143" alt="Image" src="https://github.com/user-attachments/assets/ccff63aa-b688-4885-9955-d8ac95aab718" />
+
+<img width="340" height="92" alt="Image" src="https://github.com/user-attachments/assets/35752313-3a7e-4988-a8c7-777b65146eed" />
+
+<img width="390" height="89" alt="Image" src="https://github.com/user-attachments/assets/91407ae3-001e-45f0-800d-4a299d944065" />
+
+<img width="501" height="79" alt="Image" src="https://github.com/user-attachments/assets/1c56b38b-27b2-4314-8bd3-55de0814e0b9" />
+
+<img width="486" height="254" alt="Image" src="https://github.com/user-attachments/assets/45039d51-8189-426b-bd79-0062cd0072b3" />
+
+<img width="432" height="312" alt="Image" src="https://github.com/user-attachments/assets/1d521ac8-7871-4eb3-ad80-c51a3d583f60" />
